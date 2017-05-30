@@ -17,8 +17,11 @@ int main()
     y = x * 5;
     
     //And some senseless text
-    
     printf("Well, there you have it! \n");
     printf("So continuing to do . . . something");
+    
+    // now to do something with the variables to see from my laptop
+    printf("\n%i and %i are cool.", x, y);
+    
     return 0;
 }
