@@ -17,6 +17,7 @@ int main()
     y = x * 5;
     
     //And some senseless text
+    
     printf("Well, there you have it! \n");
     printf("So continuing to do . . . something");
     return 0;
