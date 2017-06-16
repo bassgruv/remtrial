@@ -21,7 +21,10 @@ int main()
     printf("So continuing to do . . . something");
     
     // now to do something with the variables to see from my laptop
-    printf("\n%i and %i are cool.", x, y);
+    printf("\n%i and %i are cool.\n", x, y);
+    
+    //And now adding some stuff from StudioMonster
+    printf("Wow! The Welcome screen worked! All I needed was the URL for the repo and it hooked me right in!\n");
     
     return 0;
 }
